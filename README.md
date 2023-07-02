@@ -1,6 +1,6 @@
 ## Hello :relaxed:
 
-### MY SKILLS AND TECH STACK:
+#### MY SKILLS AND TECH STACK:
 - JavaScript
 - React
 - Redux
