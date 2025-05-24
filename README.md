@@ -3,7 +3,9 @@
 #### MY SKILLS AND TECH STACK:
 - JavaScript
 - React
-- Redux
+- Next.js
+- Astro
+- Sanity
 - HTML
 - CSS
 - SCSS
@@ -11,3 +13,4 @@
 - TypeScript
 - MySQL
 - MongoDB / Mongoose
+- Turborepo
