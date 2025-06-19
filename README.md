@@ -1,6 +1,4 @@
-## Hello :relaxed:
-
-#### MY SKILLS AND TECH STACK:
+### TECH STACK:
 - JavaScript
 - React
 - Next.js
